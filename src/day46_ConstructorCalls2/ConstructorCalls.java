@@ -1,7 +1,7 @@
 package day46_ConstructorCalls2;
 
-public class ConstructorCall {
-    public ConstructorCall() {
+public class ConstructorCalls {
+    public ConstructorCalls() {
         method1();
         method2();
         method3();
