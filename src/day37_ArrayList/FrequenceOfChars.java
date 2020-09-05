@@ -6,7 +6,7 @@ package day37_ArrayList;
                         output: A2B2C2D2E2
  */
 
-import library.Util;
+import Library.Util;
 
 import java.util.ArrayList;
 import java.util.Collections;

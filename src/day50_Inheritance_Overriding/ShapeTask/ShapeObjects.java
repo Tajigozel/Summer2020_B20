@@ -7,7 +7,10 @@ public class ShapeObjects {
         System.out.println(circle.calculateArea());
 
         Rectangle rectangle = new Rectangle(3,4);
-        System.out.println(rectangle.calculateArea());
+        System.out.println(rectangle.calculateArea());//12
+
+        System.out.println(circle.calculatePerimeter());
+        System.out.println(rectangle.calculatePerimeter());
 
 
 

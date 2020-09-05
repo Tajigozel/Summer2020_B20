@@ -2,8 +2,8 @@ package day43_Static;
 
 import java.util.Arrays;
 
-import static library.Resources.a;   // only imports static variable a
-import static library.Resources.*;  // imports all class members from Resources class
+import static Library.Resources.a;   // only imports static variable a
+
 
 public class Test {
 

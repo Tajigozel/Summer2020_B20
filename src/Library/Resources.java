@@ -1,4 +1,4 @@
-package library;
+package Library;
 
 public class Resources {
 

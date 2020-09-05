@@ -1,4 +1,4 @@
-package library;
+package Library;
 
 import day47_Encapsulations.Access_Modifiers;
 
